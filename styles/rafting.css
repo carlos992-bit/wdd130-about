@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap);
+:root{    --primary-color: #4cc9f0;
+    --secondary-color: #181717; 
+    --accent1-color:  #fa9857;
+    --accent2-color: rgb(45, 45, 173); 
+    --heading-font: serif;
+    --paragraph-font: serif;
+    --nav-background-color: #3a5a40;
+    --nav-link-color: #14213d;
+    --nav-hover-link-color: #000000;
+    --nav-hoverp-background-color: #15181a;
+}
+.hero img 
+    {display: block;
+    width: 100%;
+    height: auto;
+    position: flex;
+}
+
+.div img {
+    position: absolute;
+    top:  0px; 
+    left: 0px;
+  }
+
+  .h1 {
+    color: rgb(18, 3, 99);
+    margin-left: 400px;
+  }
+  
+
+  body{
+    font-size: 18px;
+    font-family: 'Roboto', Arial, sans-serif;
+    align-items: center;
+}
+    
+  .container-2 { 
+    display: flex;
+    position: relative;
+    background-color: #6c91e0;
+    
+}
+     
+  
+  article {
+    
+    display: relative;
+  }
+
+ 
+
+  .box {
+    margin: 1rem;
+    border: 1px solid rgba(0,0,0,.1);
+    padding: 1rem;
+    color: #000;
+}
+
+
+.History {
+    color: rgb(18, 3, 99);
+    margin-left: 650px;
+   
+}
+
+.paragraph-history {
+    color: rgb(18, 3, 99);
+}
